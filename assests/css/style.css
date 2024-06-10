@@ -29,6 +29,18 @@ header a{
     text-decoration: none;
     color: inherit;
 }
+#menu{
+    font-size: 110%;
+    list-style: none;
+    letter-spacing: 4px;
+
+}
+#menu li{
+    margin-bottom: 1em;
+}
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
 
 h1{
     font-family: 'oswald', sans-serif;
